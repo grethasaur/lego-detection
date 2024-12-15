@@ -28,7 +28,7 @@ Key components include:
 ---
 
 ## Dataset
-- **Source**: Kaggle [(LEGO dataset)<https://www.kaggle.com/datasets/dreamfactor/biggest-lego-dataset-600-parts>]
+- **Source**: Kaggle [LEGO dataset](https://www.kaggle.com/datasets/dreamfactor/biggest-lego-dataset-600-parts)
 - **Subset Used**: 100 images selected for this project due to resource limitations.
 - **Format**: Original dataset was in Pascal VOC XML format.
 
