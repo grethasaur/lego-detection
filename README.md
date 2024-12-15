@@ -52,7 +52,7 @@ Key components include:
 ---
 
 ## Model Training
-- **Model**: YOLOv5
+- **Model**: YOLOv5 with YOLOv5s pre-trained weight
 - **Epochs**: 50
 - **Batch Size**: 8
 - **Learning Rate**: 0.0005
@@ -63,6 +63,8 @@ Key components include:
 1. Loaded the YOLOv5 model.
 2. Configured the dataset and training parameters.
 3. Trained the model using the prepared training and validation datasets.
+4. Conducted 7 training runs with different combinations of hyperparameters.
+5. Selected the final model based on stability and consistent performance across metrics.
 
 ---
 
